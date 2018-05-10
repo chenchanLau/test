@@ -22,7 +22,7 @@
 
                    <key>url</key>
 
-                   <string>http://damanguan.oss-cn-hangzhou.aliyuncs.com/download/Payload_resigned.ipa</string>
+                   <string>https://damanguan.oss-cn-hangzhou.aliyuncs.com/download/Payload_resigned.ipa</string>
 
                </dict>
 
@@ -32,7 +32,7 @@
 
                <key>bundle-identifier</key>
 
-               <string>com.neoteched.crm.inhouse</string>
+               <string>com.wanjiadeng.huohuagame</string>
 
                <key>bundle-version</key>
 
